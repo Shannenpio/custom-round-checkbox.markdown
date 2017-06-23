@@ -1,0 +1,7 @@
+Breadcrumbs with CSS Custom Properties as API
+---------------------------------------------
+
+
+A [Pen](https://codepen.io/shannenpio1/pen/EXvKBd) by [Stas shannenpio1](http://codepen.io/shannenpio1) on [CodePen](http://codepen.io/).
+
+[License](https://codepen.io/shannenpio1/pen/EXvKBd/license).
